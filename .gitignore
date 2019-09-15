@@ -1,0 +1,8 @@
+.vs
+*.tss
+*.suo
+*.user
+*.pubxml
+packages/
+[Bb]in/
+[Oo]bj/
